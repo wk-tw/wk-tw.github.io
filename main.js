@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/kevin.wang/IdeaProjects/angularclient/src/main.ts */"zUnb");
+module.exports = __webpack_require__(/*! /home/runner/work/online-school/online-school/src/main.ts */"zUnb");
 
 
 /***/ }),
